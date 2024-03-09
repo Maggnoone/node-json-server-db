@@ -1,0 +1,14 @@
+{
+  "name": "json-server-project",
+  "version": "0.0.1",
+  "description": "Build a little server with courses info",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Mauricio Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
